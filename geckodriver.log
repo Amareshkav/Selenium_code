@@ -1,0 +1,41 @@
+1645628103903	geckodriver	INFO	Listening on 127.0.0.1:63554
+1645628347547	geckodriver	INFO	Listening on 127.0.0.1:63710
+1645628350636	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63711" "-no-remote" "-profile" "C:\\Users\\NAGABU~1\\AppData\\Local\\Temp\\rust_mozprofile3LKps2"
+1645628351091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagabushan patil\\AppData\\Local\\Temp\\rust_mozprofile3LKps2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63711/devtools/browser/91630722-bdf4-4f9c-9963-396c286ef532
+1645628353783	Marionette	INFO	Listening on port 63716
+1645628353867	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645628356923	Marionette	INFO	Stopped listening on port 63716
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1645636229432	geckodriver	INFO	Listening on 127.0.0.1:55003
+1645636232496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55004" "-no-remote" "-profile" "C:\\Users\\NAGABU~1\\AppData\\Local\\Temp\\rust_mozprofilexw1f7e"
+1645636233172	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\nagabushan patil\\AppData\\Local\\Temp\\rust_mozprofilexw1f7e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55004/devtools/browser/7f13ef90-3829-4d86-8a5c-73b124bb8052
+1645636236070	Marionette	INFO	Listening on port 55009
+1645636236241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1645636240261	Marionette	INFO	Stopped listening on port 55009
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
